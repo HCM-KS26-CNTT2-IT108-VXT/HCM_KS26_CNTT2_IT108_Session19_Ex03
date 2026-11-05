@@ -11,7 +11,7 @@
 ## 2\. Báo cáo phân tích IPO
 
 |Thành phần|Nội dung|
-|-|-|
+|--|--|
 |**Input**|Mã Backup Codes đã được tạo và lưu trữ an toàn.|
 |**Process**|Nhập mã dự phòng, xác thực tài khoản, thu hồi thiết bị cũ và cấp mã mới.|
 |**Output**|Lấy lại quyền truy cập AWS, tài khoản được bảo vệ và có bộ mã dự phòng mới.|
